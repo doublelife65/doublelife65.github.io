@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/doublelife65/doublelife65.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-##https://www.google.com/url?sa=i&url=https%3A%2F%2Fforum.gamer.com.tw%2FC.php%3Fbsn%3D17532%26snA%3D671271&psig=AOvVaw2RdG2OqvQm95VlhApGIBK4&ust=1616212521930000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCYyv66u-8CFQAAAAAdAAAAABAl
+##https://forum.gamer.com.tw/C.php?bsn=17532&snA=671271
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
